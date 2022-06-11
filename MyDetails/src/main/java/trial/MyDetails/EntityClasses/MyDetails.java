@@ -64,7 +64,7 @@ public class MyDetails {
 		return "MyDetails [id=" + id + ", name=" + name + ", occupation=" + occupation + "]";
 	}
 	
-	
+	//checking another commit
 
 
 }
